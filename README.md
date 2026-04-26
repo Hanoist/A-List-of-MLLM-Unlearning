@@ -2,6 +2,334 @@
 
 ``
 
+> 🔄 **Last Updated:** 2026-04-26 19:20:56 (Local Time)
+> 📊 **Total Papers Tracked:** 75
+
+---
+
+## Contents
+
+- [Papers](#papers)
+  - [2026](#2026)
+  - [2025](#2025)
+  - [2024](#2024)
+
+---
+
+## Papers
+
+### 2026
+
+- **[Projected Gradient Unlearning for Text-to-Image Diffusion Models: Defending Against Concept Revival Attacks](http://arxiv.org/abs/2604.21041v1)**
+  - Author(s): Aljalila Aladawi, Mohammed Talha Alam, Fakhri Karray
+  - Date: 2026-04
+  - Venue: arXiv
+- **[ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval](http://arxiv.org/abs/2604.20358v1)**
+  - Author(s): Zixu Li, Yupeng Hu, Zhiwei Chen, Mingyu Zhang, Zhiheng Fu, Liqiang Nie
+  - Date: 2026-04
+  - Venue: arXiv
+- **[Class Unlearning via Depth-Aware Removal of Forget-Specific Directions](http://arxiv.org/abs/2604.15166v1)**
+  - Author(s): Arman Hatami, Romina Aalishah, Ilya E. Monosov
+  - Date: 2026-04
+  - Venue: arXiv
+- **[From Anchors to Supervision: Memory-Graph Guided Corpus-Free Unlearning for Large Language Models](http://arxiv.org/abs/2604.13777v1)**
+  - Author(s): Wenxuan Li, Zhenfei Zhang, Mi Zhang, Geng Hong, Mi Wen, Xiaoyu You, Min Yang
+  - Date: 2026-04
+  - Venue: arXiv
+- **[WIN-U: Woodbury-Informed Newton-Unlearning as a retain-free Machine Unlearning Framework](http://arxiv.org/abs/2604.13438v1)**
+  - Author(s): Xingjian Zhao, Mohammad Mohammadi Amiri, Malik Magdon-Ismail
+  - Date: 2026-04
+  - Venue: arXiv
+- **[RePAIR: Interactive Machine Unlearning through Prompt-Aware Model Repair](http://arxiv.org/abs/2604.12820v1)**
+  - Author(s): Jagadeesh Rachapudi, Pranav Singh, Ritali Vatsi, Praful Hambarde, Amit Shukla
+  - Date: 2026-04
+  - Venue: arXiv
+- **[PrivEraserVerify: Efficient, Private, and Verifiable Federated Unlearning](http://arxiv.org/abs/2604.12348v1)**
+  - Author(s): Parthaw Goswami, Md Khairul Islam, Ashfak Yeafi
+  - Date: 2026-04
+  - Venue: arXiv
+- **[Graph Propagated Projection Unlearning: A Unified Framework for Vision and Audio Discriminative Models](http://arxiv.org/abs/2604.13127v1)**
+  - Author(s): Shreyansh Pathak, Jyotishman Das
+  - Date: 2026-04
+  - Venue: arXiv
+- **[Why Supervised Fine-Tuning Fails to Learn: A Systematic Study of Incomplete Learning in Large Language Models](http://arxiv.org/abs/2604.10079v3)**
+  - Author(s): Chao Xue, Yao Wang, Mengqiao Liu, Di Liang, Xingsheng Han, Peiyang Liu, Xianjie Wu, Chenyao Lu, Lei Jiang, Yu Lu, Haibo Shi, Shuang Liang, Minlong Peng, Flora D. Salim
+  - Date: 2026-04
+  - Venue: arXiv
+- **[EGLOCE: Training-Free Energy-Guided Latent Optimization for Concept Erasure](http://arxiv.org/abs/2604.09405v1)**
+  - Author(s): Junyeong Ahn, Seojin Yoon, Sungyong Baik
+  - Date: 2026-04
+  - Venue: arXiv
+- **[$\oslash$ Source Models Leak What They Shouldn't $\nrightarrow$: Unlearning Zero-Shot Transfer in Domain Adaptation Through Adversarial Optimization](http://arxiv.org/abs/2604.08238v1)**
+  - Author(s): Arnav Devalapally, Poornima Jain, Kartik Srinivas, Vineeth N. Balasubramanian
+  - Date: 2026-04
+  - Venue: arXiv
+- **[Bias Redistribution in Visual Machine Unlearning: Does Forgetting One Group Harm Another?](http://arxiv.org/abs/2604.08111v1)**
+  - Author(s): Yunusa Haruna, Adamu Lawan, Ibrahim Haruna Abdulhamid, Hamza Mohammed Dauda, Jiaquan Zhang, Chaoning Zhang, Shamsuddeen Hassan Muhammad
+  - Date: 2026-04
+  - Venue: arXiv
+- **[PECKER: A Precisely Efficient Critical Knowledge Erasure Recipe For Machine Unlearning in Diffusion Models](http://arxiv.org/abs/2604.05634v1)**
+  - Author(s): Zhiyong Ma, Zhitao Deng, Huan Tang, Jialin Chen, Zhijun Zheng, Zhengping Li, Qingyuan Chuai
+  - Date: 2026-04
+  - Venue: arXiv
+- **[Forgetting to Witness: Efficient Federated Unlearning and Its Visible Evaluation](http://arxiv.org/abs/2604.04800v1)**
+  - Author(s): Houzhe Wang, Xiaojie Zhu, Chi Chen
+  - Date: 2026-04
+  - Venue: arXiv
+- **[Erasure or Erosion? Evaluating Compositional Degradation in Unlearned Text-To-Image Diffusion Models](http://arxiv.org/abs/2604.04575v1)**
+  - Author(s): Arian Komaei Koma, Seyed Amir Kasaei, Ali Aghayari, AmirMahdi Sadeghzadeh, Mohammad Hossein Rohban
+  - Date: 2026-04
+  - Venue: arXiv
+- **[VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models](http://arxiv.org/abs/2604.03956v2)**
+  - Author(s): Ravi Ranjan, Agoritsa Polyzou
+  - Date: 2026-04
+  - Venue: arXiv
+- **[Can VLMs Truly Forget? Benchmarking Training-Free Visual Concept Unlearning](http://arxiv.org/abs/2604.03114v1)**
+  - Author(s): Zhangyun Tan, Zeliang Zhang, Susan Liang, Yolo Yunlong Tang, Lisha Chen, Chenliang Xu
+  - Date: 2026-04
+  - Venue: arXiv
+- **[TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning](http://arxiv.org/abs/2604.02183v2)**
+  - Author(s): Zhanting Zhou, KaHou Tam, Ziqiang Zheng, Zeyu Ma, Yang Yang
+  - Date: 2026-04
+  - Venue: arXiv
+- **[SafeRoPE: Risk-specific Head-wise Embedding Rotation for Safe Generation in Rectified Flow Transformers](http://arxiv.org/abs/2604.01826v1)**
+  - Author(s): Xiang Yang, Feifei Li, Mi Zhang, Geng Hong, Xiaoyu You, Min Yang
+  - Date: 2026-04
+  - Venue: arXiv
+- **[Why Instruction-Based Unlearning Fails in Diffusion Models?](http://arxiv.org/abs/2604.01514v1)**
+  - Author(s): Zeliang Zhang, Rui Sun, Jiani Liu, Qi Wu, Chenliang Xu
+  - Date: 2026-04
+  - Venue: arXiv
+- **[Countering Catastrophic Forgetting of Large Language Models for Better Instruction Following via Weight-Space Model Merging](http://arxiv.org/abs/2604.01538v1)**
+  - Author(s): Mengxian Lyu, Cheng Peng, Ziyi Chen, Mengyuan Zhang, Jieting Li Lu, Yonghui Wu
+  - Date: 2026-04
+  - Venue: arXiv
+- **[Unsafe2Safe: Controllable Image Anonymization for Downstream Utility](http://arxiv.org/abs/2603.28605v1)**
+  - Author(s): Mih Dinh, SouYoung Jin
+  - Date: 2026-03
+  - Venue: arXiv
+- **[SALMUBench: A Benchmark for Sensitive Association-Level Multimodal Unlearning](http://arxiv.org/abs/2603.26316v1)**
+  - Author(s): Cai Selvas-Sala, Lei Kang, Lluis Gomez
+  - Date: 2026-03
+  - Venue: arXiv
+- **[Designing to Forget: Deep Semi-parametric Models for Unlearning](http://arxiv.org/abs/2603.22870v1)**
+  - Author(s): Amber Yijia Zheng, Yu-Shan Tai, Raymond A. Yeh
+  - Date: 2026-03
+  - Venue: arXiv
+- **[Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models](http://arxiv.org/abs/2603.21484v1)**
+  - Author(s): Hyundong Jin, Dongyoon Han, Eunwoo Kim
+  - Date: 2026-03
+  - Venue: arXiv
+- **[A Concept is More Than a Word: Diversified Unlearning in Text-to-Image Diffusion Models](http://arxiv.org/abs/2603.18767v1)**
+  - Author(s): Duc Hao Pham, Van Duy Truong, Duy Khanh Dinh, Tien Cuong Nguyen, Dien Hy Ngo, Tuan Anh Bui
+  - Date: 2026-03
+  - Venue: arXiv
+- **[TINA: Text-Free Inversion Attack for Unlearned Text-to-Image Diffusion Models](http://arxiv.org/abs/2603.17828v1)**
+  - Author(s): Qianlong Xiang, Miao Zhang, Haoyu Zhang, Kun Wang, Junhui Hou, Liqiang Nie
+  - Date: 2026-03
+  - Venue: arXiv
+- **[REFORGE: Multi-modal Attacks Reveal Vulnerable Concept Unlearning in Image Generation Models](http://arxiv.org/abs/2603.16576v1)**
+  - Author(s): Yong Zou, Haoran Li, Fanxiao Li, Shenyang Wei, Yunyun Dong, Li Tang, Wei Zhou, Renyang Liu
+  - Date: 2026-03
+  - Venue: arXiv
+- **[Unlearning for One-Step Generative Models via Unbalanced Optimal Transport](http://arxiv.org/abs/2603.16489v1)**
+  - Author(s): Hyundo Choi, Junhyeong An, Jinseong Park, Jaewoong Choi
+  - Date: 2026-03
+  - Venue: arXiv
+- **[FederatedFactory: Generative One-Shot Learning for Extremely Non-IID Distributed Scenarios](http://arxiv.org/abs/2603.16370v1)**
+  - Author(s): Andrea Moleri, Christian Internò, Ali Raza, Markus Olhofer, David Klindt, Fabio Stella, Barbara Hammer
+  - Date: 2026-03
+  - Venue: arXiv
+- **[Dual Consensus: Escaping from Spurious Majority in Unsupervised RLVR via Two-Stage Vote Mechanism](http://arxiv.org/abs/2603.16223v1)**
+  - Author(s): Kaixuan Du, Meng Cao, Hang Zhang, Yukun Wang, Xiangzhou Huang, Ni Li
+  - Date: 2026-03
+  - Venue: arXiv
+- **[The Good, the Better, and the Best: Improving the Discriminability of Face Embeddings through Attribute-aware Learning](http://arxiv.org/abs/2603.15062v1)**
+  - Author(s): Ana Dias, João Ribeiro Pinto, Hugo Proença, João C. Neves
+  - Date: 2026-03
+  - Venue: arXiv
+- **[Rethinking Machine Unlearning: Models Designed to Forget via Key Deletion](http://arxiv.org/abs/2603.15033v3)**
+  - Author(s): Sonia Laguna, Jorge da Silva Goncalves, Moritz Vandenhirtz, Alain Ryser, Irene Cannistraci, Julia E. Vogt
+  - Date: 2026-03
+  - Venue: arXiv
+- **[RAZOR: Ratio-Aware Layer Editing for Targeted Unlearning in Vision Transformers and Diffusion Models](http://arxiv.org/abs/2603.14819v1)**
+  - Author(s): Ravi Ranjan, Utkarsh Grover, Xiaomin Lin, Agoritsa Polyzou
+  - Date: 2026-03
+  - Venue: arXiv
+- **[Unlearning-based sliding window for continual learning under concept drift](http://arxiv.org/abs/2603.14484v1)**
+  - Author(s): Michal Wozniak, Marek Klonowski, Maciej Maczynski, Bartosz Krawczyk
+  - Date: 2026-03
+  - Venue: arXiv
+- **[Relationship-Aware Safety Unlearning for Multimodal LLMs](http://arxiv.org/abs/2603.14185v3)**
+  - Author(s): Vishnu Narayanan Anilkumar, Abhijith Sreesylesh Babu, Trieu Hai Vo, Mohankrishna Kolla, Alexander Cuneo
+  - Date: 2026-03
+  - Venue: arXiv
+- **[Stake the Points: Structure-Faithful Instance Unlearning](http://arxiv.org/abs/2603.12915v1)**
+  - Author(s): Kiseong Hong, JungKyoo Shin, Eunwoo Kim
+  - Date: 2026-03
+  - Venue: arXiv
+- **[Adaptation of Weakly Supervised Localization in Histopathology by Debiasing Predictions](http://arxiv.org/abs/2603.12468v1)**
+  - Author(s): Alexis Guichemerre, Banafsheh Karimian, Soufiane Belharbi, Natacha Gillet, Nicolas Thome, Pourya Shamsolmoali, Mohammadhadi Shateri, Luke McCaffrey, Eric Granger
+  - Date: 2026-03
+  - Venue: arXiv
+- **[Reference-Guided Machine Unlearning](http://arxiv.org/abs/2603.11210v1)**
+  - Author(s): Jonas Mirlach, Sonia Laguna, Julia E. Vogt
+  - Date: 2026-03
+  - Venue: arXiv
+- **[Unlearning the Unpromptable: Prompt-free Instance Unlearning in Diffusion Models](http://arxiv.org/abs/2603.10445v2)**
+  - Author(s): Kyungryeol Lee, Kyeonghyun Lee, Seongmin Hong, Byung Hyun Lee, Se Young Chun
+  - Date: 2026-03
+  - Venue: arXiv
+- **[ACD-U: Asymmetric co-teaching with machine unlearning for robust learning with noisy labels](http://arxiv.org/abs/2603.07166v1)**
+  - Author(s): Reo Fukunaga, Soh Yoshida, Mitsuji Muneyasu
+  - Date: 2026-03
+  - Venue: arXiv
+- **[Self-Supervised Multi-Stage Domain Unlearning for White-Matter Lesion Segmentation](http://arxiv.org/abs/2603.13328v1)**
+  - Author(s): Domen Preložnik, Žiga Špiclin
+  - Date: 2026-03
+  - Venue: arXiv
+- **[Compensation-free Machine Unlearning in Text-to-Image Diffusion Models by Eliminating the Mutual Information](http://arxiv.org/abs/2603.00992v1)**
+  - Author(s): Xinwen Cheng, Jingyuan Zhang, Zhehao Huang, Yingwen Wu, Xiaolin Huang
+  - Date: 2026-03
+  - Venue: arXiv
+- **[EraseAnything++: Enabling Concept Erasure in Rectified Flow Transformers Leveraging Multi-Object Optimization](http://arxiv.org/abs/2603.00978v1)**
+  - Author(s): Zhaoxin Fan, Nanxiang Jiang, Daiheng Gao, Shiji Zhou, Wenjun Wu
+  - Date: 2026-03
+  - Venue: arXiv
+- **[Forgetting is Competition: Rethinking Unlearning as Representation Interference in Diffusion Models](http://arxiv.org/abs/2603.00975v1)**
+  - Author(s): Ashutosh Ranjan, Vivek Srivastava, Shirish Karande, Murari Mandal
+  - Date: 2026-03
+  - Venue: arXiv
+- **[Unlearning Evaluation through Subset Statistical Independence](http://arxiv.org/abs/2603.00587v1)**
+  - Author(s): Chenhao Zhang, Muxing Li, Feng Liu, Weitong Chen, Miao Xu
+  - Date: 2026-02
+  - Venue: arXiv
+- **[ROKA: Robust Knowledge Unlearning against Adversaries](http://arxiv.org/abs/2603.00436v1)**
+  - Author(s): Jinmyeong Shin, Joshua Tapia, Nicholas Ferreira, Gabriel Diaz, Moayed Daneshyari, Hyeran Jeon
+  - Date: 2026-02
+  - Venue: arXiv
+- **[Benchmarking Unlearning for Vision Transformers](http://arxiv.org/abs/2602.20114v1)**
+  - Author(s): Kairan Zhao, Iurie Luca, Peter Triantafillou
+  - Date: 2026-02
+  - Venue: arXiv
+- **[MeGU: Machine-Guided Unlearning with Target Feature Disentanglement](http://arxiv.org/abs/2602.17088v1)**
+  - Author(s): Haoyu Wang, Zhuo Huang, Xiaolong Wang, Bo Han, Zhiwei Lin, Tongliang Liu
+  - Date: 2026-02
+  - Venue: arXiv
+- **[Suppression or Deletion: A Restoration-Based Representation-Level Analysis of Machine Unlearning](http://arxiv.org/abs/2602.18505v1)**
+  - Author(s): Yurim Jang, Jaeung Lee, Dohyun Kim, Jaemin Jo, Simon S. Woo
+  - Date: 2026-02
+  - Venue: WWW 2026
+- **[ModalImmune: Immunity Driven Unlearning via Self Destructive Training](http://arxiv.org/abs/2602.16197v3)**
+  - Author(s): Rong Fu, WeiZhi Tang, Ziming Wang, Jia Yee Tan, Zijian Zhang, Zhaolu Kang, Muge Qi, Shuning Zhang, Simon Fong
+  - Date: 2026-02
+  - Venue: arXiv
+- **[Missing-by-Design: Certifiable Modality Deletion for Revocable Multimodal Sentiment Analysis](http://arxiv.org/abs/2602.16144v3)**
+  - Author(s): Rong Fu, Ziming Wang, Chunlei Meng, Jiaxuan Lu, Jiekai Wu, Kangan Qian, Hao Zhang, Simon Fong
+  - Date: 2026-02
+  - Venue: arXiv
+- **[Addressing data annotation scarcity in Brain Tumor Segmentation on 3D MRI scan Using a Semi-Supervised Teacher-Student Framework](http://arxiv.org/abs/2602.08797v1)**
+  - Author(s): Jiaming Liu, Cheng Ding, Daoqiang Zhang
+  - Date: 2026-02
+  - Venue: arXiv
+- **[QARM V2: Quantitative Alignment Multi-Modal Recommendation for Reasoning User Sequence Modeling](http://arxiv.org/abs/2602.08559v1)**
+  - Author(s): Tian Xia, Jiaqi Zhang, Yueyang Liu, Hongjian Dou, Tingya Yin, Jiangxia Cao, Xulei Liang, Tianlu Xie, Lihao Liu, Xiang Chen, Shen Wang, Changxin Lao, Haixiang Gan, Jinkai Yu, Keting Cen, Lu Hao, Xu Zhang, Qiqiang Zhong, Zhongbo Sun, Yiyu Wang, Shuang Yang, Mingxin Wen, Xiangyu Wu, Shaoguo Liu, Tingting Gao, Zhaojie Liu, Han Li, Kun Gai
+  - Date: 2026-02
+  - Venue: arXiv
+- **[UTOPIA: Unlearnable Tabular Data via Decoupled Shortcut Embedding](http://arxiv.org/abs/2602.07358v2)**
+  - Author(s): Jiaming He, Fuming Luo, Hongwei Li, Wenbo Jiang, Wenshu Fan, Zhenbo Shi, Xudong Jiang, Yi Yu
+  - Date: 2026-02
+  - Venue: arXiv
+- **[Erase at the Core: Representation Unlearning for Machine Unlearning](http://arxiv.org/abs/2602.05375v2)**
+  - Author(s): Jaewon Lee, Yongwoo Kim, Donghyun Kim
+  - Date: 2026-02
+  - Venue: arXiv
+- **[Copyright Detective: A Forensic System to Evidence LLMs Flickering Copyright Leakage Risks](http://arxiv.org/abs/2602.05252v2)**
+  - Author(s): Guangwei Zhang, Jianing Zhu, Cheng Qian, Neil Gong, Rada Mihalcea, Zhaozhuo Xu, Jingrui He, Jiaqi Ma, Yun Huang, Chaowei Xiao, Bo Li, Ahmed Abbasi, Dongwon Lee, Heng Ji, Denghui Zhang
+  - Date: 2026-02
+  - Venue: arXiv
+- **[SPARE: Self-distillation for PARameter-Efficient Removal](http://arxiv.org/abs/2602.07058v2)**
+  - Author(s): Natnael Mola, Leonardo S. B. Pereira, Carolina R. Kelsch, Luis H. Arribas, Juan C. S. M. Avedillo
+  - Date: 2026-02
+  - Venue: arXiv
+- **[UnHype: CLIP-Guided Hypernetworks for Dynamic LoRA Unlearning](http://arxiv.org/abs/2602.03410v1)**
+  - Author(s): Piotr Wójcik, Maksym Petrenko, Wojciech Gromski, Przemysław Spurek, Maciej Zieba
+  - Date: 2026-02
+  - Venue: arXiv
+- **[ReLAPSe: Reinforcement-Learning-trained Adversarial Prompt Search for Erased concepts in unlearned diffusion models](http://arxiv.org/abs/2602.00350v1)**
+  - Author(s): Ignacy Kolton, Kacper Marzol, Paweł Batorski, Marcin Mazur, Paul Swoboda, Przemysław Spurek
+  - Date: 2026-01
+  - Venue: arXiv
+- **[GUDA: Counterfactual Group-wise Training Data Attribution for Diffusion Models via Unlearning](http://arxiv.org/abs/2601.22651v1)**
+  - Author(s): Naoki Murata, Yuhta Takida, Chieh-Hsin Lai, Toshimitsu Uesaka, Bac Nguyen, Stefano Ermon, Yuki Mitsufuji
+  - Date: 2026-01
+  - Venue: arXiv
+- **[The Illusion of Forgetting: Attack Unlearned Diffusion via Initial Latent Variable Optimization](http://arxiv.org/abs/2602.00175v1)**
+  - Author(s): Manyi Li, Yufan Liu, Lai Jiang, Bing Li, Yuming Li, Weiming Hu
+  - Date: 2026-01
+  - Venue: arXiv
+- **[The Unseen Threat: Residual Knowledge in Machine Unlearning under Perturbed Samples](http://arxiv.org/abs/2601.22359v1)**
+  - Author(s): Hsiang Hsu, Pradeep Niroula, Zichang He, Ivan Brugere, Freddy Lecue, Chun-Fu Chen
+  - Date: 2026-01
+  - Venue: arXiv
+- **[Visual-Guided Key-Token Regularization for Multimodal Large Language Model Unlearning](http://arxiv.org/abs/2601.22020v1)**
+  - Author(s): Chengyi Cai, Zesheng Ye, Peike Li, Bo Han, Jianzhong Qi, Feng Liu
+  - Date: 2026-01
+  - Venue: arXiv
+- **[Knowledge Vector Weakening: Efficient Training-free Unlearning for Large Vision-Language Models](http://arxiv.org/abs/2601.21794v1)**
+  - Author(s): Yejin Kim, Dongjun Hwang, Sungmin Cha, Junsuk Choe
+  - Date: 2026-01
+  - Venue: arXiv
+- **[MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency Contexts](http://arxiv.org/abs/2601.18790v1)**
+  - Author(s): Etienne Lanzeray, Stephane Meilliez, Malo Ruelle, Damien Sileo
+  - Date: 2026-01
+  - Venue: arXiv
+- **[Beyond Superficial Unlearning: Sharpness-Aware Robust Erasure of Hallucinations in Multimodal LLMs](http://arxiv.org/abs/2601.16527v1)**
+  - Author(s): Xianya Fang, Feiyang Ren, Xiang Chen, Yu Tian, Zhen Bi, Haiyang Yu, Sheng-Jun Huang
+  - Date: 2026-01
+  - Venue: arXiv
+
+### 2025
+
+- **[Reference-Specific Unlearning Metrics Can Hide the Truth: A Reality Check](http://arxiv.org/abs/2510.12981v1)**
+  - Author(s): Sungjun Cho, Dasol Hwang, Frederic Sala, Sangheum Hwang, Kyunghyun Cho, Sungmin Cha
+  - Date: 2025-10
+  - Venue: arXiv
+- **[Scalable and Robust LLM Unlearning by Correcting Responses with Retrieved Exclusions](http://arxiv.org/abs/2509.25973v1)**
+  - Author(s): Junbeom Kim, Kyuyoung Kim, Jihoon Tack, Dongha Lim, Jinwoo Shin
+  - Date: 2025-09
+  - Venue: arXiv
+- **[Holographic Knowledge Manifolds: A Novel Pipeline for Continual Learning Without Catastrophic Forgetting in Large Language Models](http://arxiv.org/abs/2509.10518v2)**
+  - Author(s): Justin Arndt
+  - Date: 2025-09
+  - Venue: arXiv
+- **[From Learning to Unlearning: Biomedical Security Protection in Multimodal Large Language Models](http://arxiv.org/abs/2508.04192v1)**
+  - Author(s): Dunyuan Xu, Xikai Yang, Yaoqian Li, Jinpeng Li, Pheng-Ann Heng
+  - Date: 2025-08
+  - Venue: arXiv
+- **[SUA: Stealthy Multimodal Large Language Model Unlearning Attack](http://arxiv.org/abs/2506.17265v2)**
+  - Author(s): Xianren Zhang, Hui Liu, Delvin Ce Zhang, Xianfeng Tang, Qi He, Dongwon Lee, Suhang Wang
+  - Date: 2025-06
+  - Venue: arXiv
+
+### 2024
+
+- **[Methods to Assess the UK Government's Current Role as a Data Provider for AI](http://arxiv.org/abs/2412.09632v2)**
+  - Author(s): Neil Majithia, Elena Simperl
+  - Date: 2024-11
+  - Venue: arXiv
+- **[Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](http://arxiv.org/abs/2410.22108v2)**
+  - Author(s): Zheyuan Liu, Guangyao Dou, Mengzhao Jia, Zhaoxuan Tan, Qingkai Zeng, Yongle Yuan, Meng Jiang
+  - Date: 2024-10
+  - Venue: NAACL 2025
+- **[Rethinking Machine Unlearning for Large Language Models](http://arxiv.org/abs/2402.08787v6)**
+  - Author(s): Sijia Liu, Yuanshun Yao, Jinghan Jia, Stephen Casper, Nathalie Baracaldo, Peter Hase, Yuguang Yao, Chris Yuhao Liu, Xiaojun Xu, Hang Li, Kush R. Varshney, Mohit Bansal, Sanmi Koyejo, Yang Liu
+  - Date: 2024-02
+  - Venue: arXiv
+
+
+``
+
 > *Data sourced from arXiv API. Auto-updated at: 2026-04-21 16:25:02*
 
 ## Contents
@@ -85,4 +413,3 @@
   - Venue: ECCV 2024
 
 
-``

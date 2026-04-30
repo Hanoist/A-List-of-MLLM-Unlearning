@@ -648,3 +648,42 @@
   - Venue: arXiv
 
 
+
+
+<!-- MLLM_START -->
+
+> 🔄 **Last Updated:** 2026-04-30 17:52:29 (Local Time)
+> 📊 **Total Papers Tracked:** 4
+
+---
+
+## Contents
+
+- [Papers](#papers)
+  - [2026](#2026)
+
+---
+
+## Papers
+
+### 2026
+
+- **[UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks](http://arxiv.org/abs/2604.23141v1)**
+  - Author(s): Tianlong Yu, Yang Yang, Xiao Luo, Lihong Liu, Fudu Xing, Zui Tao, Kailong Wang, Gaoyang Liu, Ting Bi
+  - Date: 2026-04
+  - Venue: arXiv
+- **[Projected Gradient Unlearning for Text-to-Image Diffusion Models: Defending Against Concept Revival Attacks](http://arxiv.org/abs/2604.21041v1)**
+  - Author(s): Aljalila Aladawi, Mohammed Talha Alam, Fakhri Karray
+  - Date: 2026-04
+  - Venue: arXiv
+- **[EGLOCE: Training-Free Energy-Guided Latent Optimization for Concept Erasure](http://arxiv.org/abs/2604.09405v1)**
+  - Author(s): Junyeong Ahn, Seojin Yoon, Sungyong Baik
+  - Date: 2026-04
+  - Venue: arXiv
+- **[Bias Redistribution in Visual Machine Unlearning: Does Forgetting One Group Harm Another?](http://arxiv.org/abs/2604.08111v1)**
+  - Author(s): Yunusa Haruna, Adamu Lawan, Ibrahim Haruna Abdulhamid, Hamza Mohammed Dauda, Jiaquan Zhang, Chaoning Zhang, Shamsuddeen Hassan Muhammad
+  - Date: 2026-04
+  - Venue: arXiv
+
+
+<!-- MLLM_END -->

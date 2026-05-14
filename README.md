@@ -3,8 +3,8 @@
 
 <!-- MLLM_START -->
 
-> 🔄 **Last Updated:** 2026-04-30 19:13:25 (Local Time)
-> 📊 **Total Papers Tracked:** 48
+> 🔄 **Last Updated:** 2026-05-14 11:01:53 (Local Time)
+> 📊 **Total Papers Tracked:** 64
 
 ---
 
@@ -22,6 +22,38 @@
 
 ### 2026
 
+- **[PPU-Bench:Real World Benchmark for Personalized Partial Unlearning in Vision Language Models](http://arxiv.org/abs/2605.08800v1)**
+  - Author(s): Jiahui Guang, Zexun Zhan, Zhenlin Xu, Cuiyun Gao, Haiyan Wang, Jing Li, Zhaoquan Gu, Yanchun Zhang
+  - Date: 2026-05
+  - Venue: arXiv
+- **[Null Space Constrained Contrastive Visual Forgetting for MLLM Unlearning](http://arxiv.org/abs/2605.05909v1)**
+  - Author(s): Yuhang Wang, Zhenxing Niu, Haoxuan Ji, Guangyu He, Linlin Zhang, Haichang Gao
+  - Date: 2026-05
+  - Venue: arXiv
+- **[ICU-Bench:Benchmarking Continual Unlearning in Multimodal Large Language Models](http://arxiv.org/abs/2605.05938v1)**
+  - Author(s): Yuhang Wang, Wenjie Mei, Junkai Zhang, Guangyu He, Zhenxing Niu, Haichang Gao
+  - Date: 2026-05
+  - Venue: arXiv
+- **[Erase Persona, Forget Lore: Benchmarking Multimodal Copyright Unlearning in Large Vision Language Models](http://arxiv.org/abs/2605.03547v1)**
+  - Author(s): JuneHyoung Kwon, JungMin Yun, YoungBin Kim
+  - Date: 2026-05
+  - Venue: arXiv
+- **[Metric Unreliability in Multimodal Machine Unlearning: A Systematic Analysis and Principled Unified Score](http://arxiv.org/abs/2605.02206v2)**
+  - Author(s): Abdullah Ahmad Khan, Hamid Laga, Ferdous Sohel
+  - Date: 2026-05
+  - Venue: arXiv
+- **[EASE: Federated Multimodal Unlearning via Entanglement-Aware Anchor Closure](http://arxiv.org/abs/2605.00733v1)**
+  - Author(s): Zihao Ding, Beining Wu, Jun Huang
+  - Date: 2026-05
+  - Venue: arXiv
+- **[Object Hallucination-Free Reinforcement Unlearning for Vision-Language Models](http://arxiv.org/abs/2605.08031v1)**
+  - Author(s): Kaidi Jia, Yujie Lin, Chengyi Yang, Jiayao Ma, Jinsong Su
+  - Date: 2026-05
+  - Venue: arXiv
+- **[Before Forgetting, Learn to Remember: Revisiting Foundational Learning Failures in LVLM Unlearning Benchmarks](http://arxiv.org/abs/2605.03759v1)**
+  - Author(s): JuneHyoung Kwon, MiHyeon Kim, Eunju Lee, JungMin Yun, Byeonggeuk Lim, YoungBin Kim
+  - Date: 2026-05
+  - Venue: arXiv
 - **[UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks](http://arxiv.org/abs/2604.23141v1)**
   - Author(s): Tianlong Yu, Yang Yang, Xiao Luo, Lihong Liu, Fudu Xing, Zui Tao, Kailong Wang, Gaoyang Liu, Ting Bi
   - Date: 2026-04
@@ -125,6 +157,14 @@
   - Author(s): Karuna Bhaila, Aneesh Komanduri, Minh-Hao Van, Xintao Wu
   - Date: 2025-10
   - Venue: arXiv
+- **[Approximate Domain Unlearning for Vision-Language Models](http://arxiv.org/abs/2510.08132v1)**
+  - Author(s): Kodai Kawamura, Yuta Goto, Rintaro Yanagi, Hirokatsu Kataoka, Go Irie
+  - Date: 2025-10
+  - Venue: arXiv
+- **[Code2Video: A Code-centric Paradigm for Educational Video Generation](http://arxiv.org/abs/2510.01174v1)**
+  - Author(s): Yanzhe Chen, Kevin Qinghong Lin, Mike Zheng Shou
+  - Date: 2025-10
+  - Venue: arXiv
 - **[Analyzing and Mitigating Object Hallucination: A Training Bias Perspective](http://arxiv.org/abs/2508.04567v1)**
   - Author(s): Yifan Li, Kun Zhou, Wayne Xin Zhao, Lei Fang, Ji-Rong Wen
   - Date: 2025-08
@@ -141,10 +181,22 @@
   - Author(s): Tatsuki Kawakami, Kazuki Egashira, Atsuyuki Miyai, Go Irie, Kiyoharu Aizawa
   - Date: 2025-07
   - Venue: arXiv
+- **[Unlearning the Noisy Correspondence Makes CLIP More Robust](http://arxiv.org/abs/2507.03434v1)**
+  - Author(s): Haochen Han, Alex Jinpeng Wang, Peijun Ye, Fangming Liu
+  - Date: 2025-07
+  - Venue: ICCV 2025
 - **[SUA: Stealthy Multimodal Large Language Model Unlearning Attack](http://arxiv.org/abs/2506.17265v2)**
   - Author(s): Xianren Zhang, Hui Liu, Delvin Ce Zhang, Xianfeng Tang, Qi He, Dongwon Lee, Suhang Wang
   - Date: 2025-06
   - Venue: EMNLP 2025
+- **[Forget-MI: Machine Unlearning for Forgetting Multimodal Information in Healthcare Settings](http://arxiv.org/abs/2506.23145v1)**
+  - Author(s): Shahad Hardan, Darya Taratynova, Abdelmajid Essofi, Karthik Nandakumar, Mohammad Yaqub
+  - Date: 2025-06
+  - Venue: MICCAI 2025
+- **[Rethinking Post-Unlearning Behavior of Large Vision-Language Models](http://arxiv.org/abs/2506.02541v2)**
+  - Author(s): Minsung Kim, Nakyeong Yang, Kyomin Jung
+  - Date: 2025-06
+  - Venue: arXiv
 - **[Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](http://arxiv.org/abs/2505.01456v1)**
   - Author(s): Vaidehi Patil, Yi-Lin Sung, Peter Hase, Jie Peng, Tianlong Chen, Mohit Bansal
   - Date: 2025-05
@@ -159,6 +211,14 @@
   - Venue: arXiv
 - **[Safety Mirage: How Spurious Correlations Undermine VLM Safety Fine-Tuning and Can Be Mitigated by Machine Unlearning](http://arxiv.org/abs/2503.11832v4)**
   - Author(s): Yiwei Chen, Yuguang Yao, Yihua Zhang, Bingquan Shen, Gaowen Liu, Sijia Liu
+  - Date: 2025-03
+  - Venue: arXiv
+- **[Instance-Level Data-Use Auditing of Visual ML Models](http://arxiv.org/abs/2503.22413v2)**
+  - Author(s): Zonghao Huang, Neil Zhenqiang Gong, Michael K. Reiter
+  - Date: 2025-03
+  - Venue: arXiv
+- **[SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders](http://arxiv.org/abs/2503.14530v2)**
+  - Author(s): Qing Li, Jiahui Geng, Derui Zhu, Fengyu Cai, Chenyang Lyu, Fakhri Karray
   - Date: 2025-03
   - Venue: arXiv
 - **[Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models](http://arxiv.org/abs/2502.15910v3)**
@@ -208,6 +268,10 @@
   - Author(s): A. Kravets, V. Namboodiri
   - Date: 2024-07
   - Venue: arXiv
+- **[Targeted Unlearning with Single Layer Unlearning Gradient](http://arxiv.org/abs/2407.11867v3)**
+  - Author(s): Zikui Cai, Yaoteng Tan, M. Salman Asif
+  - Date: 2024-07
+  - Venue: ICML 2025
 - **[Cross-Modal Safety Alignment: Is textual unlearning all you need?](http://arxiv.org/abs/2406.02575v2)**
   - Author(s): Trishna Chakraborty, Erfan Shayegani, Zikui Cai, Nael Abu-Ghazaleh, M. Salman Asif, Yue Dong, Amit K. Roy-Chowdhury, Chengyu Song
   - Date: 2024-05

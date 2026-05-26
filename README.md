@@ -3,8 +3,8 @@
 
 <!-- MLLM_START -->
 
-> 🔄 **Last Updated:** 2026-05-14 11:01:53 (Local Time)
-> 📊 **Total Papers Tracked:** 64
+> 🔄 **Last Updated:** 2026-05-26 21:44:18 (Local Time)
+> 📊 **Total Papers Tracked:** 68
 
 ---
 
@@ -54,6 +54,18 @@
   - Author(s): JuneHyoung Kwon, MiHyeon Kim, Eunju Lee, JungMin Yun, Byeonggeuk Lim, YoungBin Kim
   - Date: 2026-05
   - Venue: arXiv
+- **[ICED: Concept-level Machine Unlearning via Interpretable Concept Decomposition](http://arxiv.org/abs/2605.14309v2)**
+  - Author(s): Shen Lin, Jing Lin, Junhao Dong, Piotr Koniusz, Li Xu
+  - Date: 2026-05
+  - Venue: arXiv
+- **[CATA: Continual Machine Unlearning via Conflict-Averse Task Arithmetic](http://arxiv.org/abs/2605.18610v1)**
+  - Author(s): Shen Lin, Junhao Dong, Rongjie Chen, Xiaoyu Zhang, Li Xu, Xiaofeng Chen
+  - Date: 2026-05
+  - Venue: arXiv
+- **[ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models](http://arxiv.org/abs/2605.15687v1)**
+  - Author(s): Jiahui Guang, Yingjie Zhu, Cuiyun Gao, Haiyan Wang, Jing Li, Di Shao, Zhaoquan Gu
+  - Date: 2026-05
+  - Venue: arXiv
 - **[UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks](http://arxiv.org/abs/2604.23141v1)**
   - Author(s): Tianlong Yu, Yang Yang, Xiao Luo, Lihong Liu, Fudu Xing, Zui Tao, Kailong Wang, Gaoyang Liu, Ting Bi
   - Date: 2026-04
@@ -99,6 +111,10 @@
   - Date: 2026-01
   - Venue: arXiv
 - **[Beyond Superficial Unlearning: Sharpness-Aware Robust Erasure of Hallucinations in Multimodal LLMs](http://arxiv.org/abs/2601.16527v1)**
+  - Author(s): Xianya Fang, Feiyang Ren, Xiang Chen, Yu Tian, Zhen Bi, Haiyang Yu, Sheng-Jun Huang
+  - Date: 2026-01
+  - Venue: arXiv
+- **[Beyond Superficial Unlearning: Sharpness-Aware Robust Erasure of Hallucinations in Multimodal LLMs](http://arxiv.org/abs/2601.16527v2)**
   - Author(s): Xianya Fang, Feiyang Ren, Xiang Chen, Yu Tian, Zhen Bi, Haiyang Yu, Sheng-Jun Huang
   - Date: 2026-01
   - Venue: arXiv

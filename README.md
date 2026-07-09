@@ -3,8 +3,8 @@
 
 <!-- MLLM_START -->
 
-> 🔄 **Last Updated:** 2026-05-26 21:44:18 (Local Time)
-> 📊 **Total Papers Tracked:** 68
+> 🔄 **Last Updated:** 2026-07-09 13:57:31 (Local Time)
+> 📊 **Total Papers Tracked:** 79
 
 ---
 
@@ -22,6 +22,26 @@
 
 ### 2026
 
+- **[PPE-Bench: A Benchmark for Evaluating MLLM Unlearning under Private-Public Entanglement](http://arxiv.org/abs/2607.02897v1)**
+  - Author(s): Xianren Zhang, Delvin Ce Zhang, Dongwon Lee, Suhang Wang
+  - Date: 2026-07
+  - Venue: arXiv
+- **[POPS: Recovering Unlearned Multi-Modality Knowledge in MLLMs with Prompt-Optimized Parameter Shaking](http://arxiv.org/abs/2607.06649v1)**
+  - Author(s): Zhangheng LI, Jianing Zhu, Junyuan Hong, Sungmin Eum, Shuowen Hu, Suya You, Zhangyang Wang
+  - Date: 2026-07
+  - Venue: arXiv
+- **[MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs](http://arxiv.org/abs/2606.12809v1)**
+  - Author(s): He Li, Haoang Chi, Qizhou Wang, Yunxin Mao, Zhiheng Zhang, Jie Tan, Tongliang Liu, Wenjing Yang, Bo Han
+  - Date: 2026-06
+  - Venue: arXiv
+- **[SPACE: Source-free Proxy Anchor Concept Erasure for MLLMs](http://arxiv.org/abs/2606.09868v1)**
+  - Author(s): Zhijing Zhang, Jiaqi Ding, Qianshan Wei, Nan Zhou, Jiaqi Li, Yongliang Wu, Tongxin Zhu, Xiaolin Fang
+  - Date: 2026-06
+  - Venue: arXiv
+- **[When the Same Musical Knowledge Forgets Differently: A Clean Probe of Pathway-Dependent Forgetting](http://arxiv.org/abs/2606.15088v2)**
+  - Author(s): Yu Liu, Zhiwei Yang, Wenxiao Zhang, Cong Cao, Fangfang Yuan, Kun Peng, Haimei Qin, Lei Jiang, Jin B. Hong, Hao Peng, Yanbing Liu
+  - Date: 2026-06
+  - Venue: arXiv
 - **[PPU-Bench:Real World Benchmark for Personalized Partial Unlearning in Vision Language Models](http://arxiv.org/abs/2605.08800v1)**
   - Author(s): Jiahui Guang, Zexun Zhan, Zhenlin Xu, Cuiyun Gao, Haiyan Wang, Jing Li, Zhaoquan Gu, Yanchun Zhang
   - Date: 2026-05
@@ -66,6 +86,18 @@
   - Author(s): Jiahui Guang, Yingjie Zhu, Cuiyun Gao, Haiyan Wang, Jing Li, Di Shao, Zhaoquan Gu
   - Date: 2026-05
   - Venue: arXiv
+- **[Visual-Noise Guided In-Context Distillation for Multimodal Large Language Model Unlearning](http://arxiv.org/abs/2606.00105v1)**
+  - Author(s): Junkai Chen, Yuhao He, Junxiang You, Ruiqi Liu, Chenyu Wang, Shu Wu
+  - Date: 2026-05
+  - Venue: arXiv
+- **[On the Robustness of Machine Unlearning for Vision-Language Models](http://arxiv.org/abs/2605.26992v1)**
+  - Author(s): Yujie Lin, Kaidi Jia, Jiayao Ma, Chengyi Yang, Jinsong Su
+  - Date: 2026-05
+  - Venue: arXiv
+- **[ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models](http://arxiv.org/abs/2605.15687v2)**
+  - Author(s): Jiahui Guang, Haiyan Wang, Yingjie Zhu, Cuiyun Gao, Jing Li, Di Shao, Zhaoquan Gu
+  - Date: 2026-05
+  - Venue: arXiv
 - **[UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks](http://arxiv.org/abs/2604.23141v1)**
   - Author(s): Tianlong Yu, Yang Yang, Xiao Luo, Lihong Liu, Fudu Xing, Zui Tao, Kailong Wang, Gaoyang Liu, Ting Bi
   - Date: 2026-04
@@ -100,6 +132,10 @@
   - Venue: arXiv
 - **[ROKA: Robust Knowledge Unlearning against Adversaries](http://arxiv.org/abs/2603.00436v1)**
   - Author(s): Jinmyeong Shin, Joshua Tapia, Nicholas Ferreira, Gabriel Diaz, Moayed Daneshyari, Hyeran Jeon
+  - Date: 2026-02
+  - Venue: arXiv
+- **[Consistency-Preserving Concept Erasure via Unsafe-Safe Pairing and Directional Fisher-weighted Adaptation](http://arxiv.org/abs/2602.05339v1)**
+  - Author(s): Yongwoo Kim, Sungmin Cha, Hyunsoo Kim, Jaewon Lee, Donghyun Kim
   - Date: 2026-02
   - Venue: arXiv
 - **[Visual-Guided Key-Token Regularization for Multimodal Large Language Model Unlearning](http://arxiv.org/abs/2601.22020v1)**
@@ -161,6 +197,10 @@
   - Author(s): Kunhao Li, Wenhao Li, Di Wu, Lei Yang, Jun Bai, Ju Jia, Jason Xue
   - Date: 2025-11
   - Venue: AAAI 2026
+- **[Towards Benign Memory Forgetting for Selective Multimodal Large Language Model Unlearning](http://arxiv.org/abs/2511.20196v2)**
+  - Author(s): Zhen Zeng, Leijiang Gu, Zhangling Duan, Feng Li, Cees G. M. Snoek, Meng Wang, Zenglin Shi
+  - Date: 2025-11
+  - Venue: arXiv
 - **[OFFSIDE: Benchmarking Unlearning Misinformation in Multimodal Large Language Models](http://arxiv.org/abs/2510.22535v2)**
   - Author(s): Hao Zheng, Zirui Pang, Ling li, Zhijie Deng, Yuhan Pu, Zhaowei Zhu, Xiaobo Xia, Jiaheng Wei
   - Date: 2025-10
@@ -235,6 +275,10 @@
   - Venue: arXiv
 - **[SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders](http://arxiv.org/abs/2503.14530v2)**
   - Author(s): Qing Li, Jiahui Geng, Derui Zhu, Fengyu Cai, Chenyang Lyu, Fakhri Karray
+  - Date: 2025-03
+  - Venue: arXiv
+- **[Safety Mirage: How Spurious Correlations Undermine VLM Safety Fine-Tuning and Can Be Mitigated by Machine Unlearning](http://arxiv.org/abs/2503.11832v5)**
+  - Author(s): Yiwei Chen, Yuguang Yao, Yihua Zhang, Bingquan Shen, Gaowen Liu, Sijia Liu
   - Date: 2025-03
   - Venue: arXiv
 - **[Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models](http://arxiv.org/abs/2502.15910v3)**
